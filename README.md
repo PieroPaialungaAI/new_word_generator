@@ -1,6 +1,6 @@
 ![resume_image](https://user-images.githubusercontent.com/55837093/222734477-68047408-8b1c-45f6-ac15-fc83f798c376.jpeg)
 
-
+Photo by Brett Jordan on Unsplash
 
 # New Word Generator using OpenAI ChatGPT API 
 Hello :smiley: thank you for being here!
