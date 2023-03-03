@@ -34,7 +34,7 @@ These are some made up words. Enjoy them and make your own ones!
 
 
 ### 3.2 Example 2: 
-![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
+![resume_image](https://user-images.githubusercontent.com/55837093/222735505-6be6c95b-e791-49aa-8a3a-8d9c70690743.png)
 
 
 ### 3.3 Example 3: 
