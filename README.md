@@ -25,79 +25,21 @@ The app will provide the details of everything that is happening, the summary an
 
 † If you do not have an Open AI API key, please follow the [Open AI blogpost](https://openai.com/blog/openai-api/).
 
-Once that you have followed the procedure, what you'd have to do is to run the app using:
-
-```python main.py```
-
-In this file, change the 'cv_example.txt' file with the file that you want to be analyzed. Look for this line:
-
-```uploaded_file = open('cv_example.txt','r')```
-
-This script is less "user friendly", but very efficient. It doesn't print anything but it outputs a "cv_reviewed.txt" file that is the file with the proposal change in the summary and work experiences. 
 
 ## 3. Examples
 
-This is an example using the script on my CV.
-
-__Input SUMMARY:__ 
-
-I’m a Physicist that has developed strong skills in Data Science and Deep Learning.Master’s Degree in Physics Of Complex Systems and Big Data (grade: 110/110 cum laude).
-
-Currently working as a Research Assistant with the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati while pursuing the PhD. 
-
-The goal of my research is finding ways to optimize engineering experiments using Machine Learning and Data Science.Technical writer for Towards Data Science about trending Machine Learning applications and techniques to real world problems (60k+ monthly views). 
-
-Course Creator and Teacher for Teens in AI. Developer of Image Processing I and Signal Processing I courses.
-
-*** 
-__AI Improved SUMMARY:__
-
-I am an exceptionally talented Physicist with an impressive background in Data Science and Deep Learning. I have achieved an outstanding grade of 110/110 cum laude in my Master's Degree in Physics Of Complex Systems and Big Data. I am currently employed as a Research Assistant at the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati, where I am optimizing engineering experiments through the use of Machine Learning and Data Science techniques. Additionally, I am a Technical Writer for Towards Data Science, with over 60k monthly views, and have created and instructed Courses in Image Processing I and Signal Processing I for Teens in AI.
-
-***
-
-__Input EXPERIENCES:__ 
+These are some made up words. Enjoy them and make your own ones!
 
 _EXPERIENCE 1:_
 
-Using Machine Learning to create surrogate modeling and increase the efficiency of Mechanical Engineering experiments. Hands on research in Traditional and Deep Machine Learning.[SEP]
+[SEP]
 
 
 _EXPERIENCE 2:_
 
-50+ technical articles about using Machine Learning applications on real world problems. 50k+ monthly views.[SEP]
-
-_EXPERIENCE 3:_
-
-Developing Deep Learning techniques to decrease the scanning time of MRI scans[SEP]
+[SEP]
 
 
-_EXPERIENCE 4:_
-
-Developing Deep Learning algorithms to classify Solar Flares based on magnetograms[SEP]
-
-*** 
-__AI Improved EXPERIENCES:__
-
-_EXPERIENCE 1:_
-
-
-I have extensive experience in utilizing Machine Learning to create surrogate modeling and optimize the efficiency of Mechanical Engineering experiments. My research background includes both Traditional and Deep Machine Learning, and I am eager to apply my knowledge and skills to a new role.
-
-_EXPERIENCE 2:_
-
-
-I have authored over 50 technical articles on the use of Machine Learning applications to solve real-world problems, garnering 50,000+ monthly views.
-
-_EXPERIENCE 3:_
-
-
-Developing Deep Learning techniques to dramatically reduce the scanning time of MRI scans
-
-_EXPERIENCE 4:_
-
-
-I recently completed a Bachelor's thesis exploring the potential of a Deep Neural Network to predict the next solar cycle. My research focused on the development of a model that could accurately forecast solar activity and provide insight into future solar behavior. I employed a variety of techniques, including data mining, statistical analysis, and machine learning, to create a model that achieved a high degree of accuracy. My findings have the potential to significantly improve our understanding of solar activity and provide valuable information for predicting future solar cycles.
 
 ***
 
