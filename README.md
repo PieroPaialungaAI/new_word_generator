@@ -23,14 +23,13 @@ and follow the procedure that the app will ask you. You will have to write two d
 The app will provide the details of everything that is happening, the summary and the work experience proposal will be printed and the result will be a text with the fake word and the explanation of what that fake word means. :rocket:
 
 
-† If you do not have an Open AI API key, please follow the [Open AI blogpost](https://openai.com/blog/openai-api/).
-
 
 ## 3. Examples
 
 These are some made up words. Enjoy them and make your own ones!
 
 _EXPERIENCE 1:_
+
 
 [SEP]
 
