@@ -28,19 +28,18 @@ The app will provide the details of everything that is happening, the summary an
 
 These are some made up words. Enjoy them and make your own ones!
 
-_Example 1:_
+### 3.1 Example 1: 
 
 ![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
 
 [SEP]
 
-_Example 2:_
-
+### 3.2 Example 2: 
 ![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
 
 [SEP]
 
-_Example 3:_
+### 3.3 Example 3: 
 
 ![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
 
