@@ -34,13 +34,17 @@ _Example 1:_
 
 [SEP]
 
+_Example 2:_
 
-_EXPERIENCE 2:_
+![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
 
 [SEP]
 
+_Example 3:_
 
+![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
 
+[SEP]
 ***
 
 ### Contacts!
