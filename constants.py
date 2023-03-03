@@ -1,1 +1,1 @@
-OPENAI_KEY = 'fake_ai_key'
+OPENAI_KEY = 'insert_key_here'
