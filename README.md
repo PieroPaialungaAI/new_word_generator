@@ -28,8 +28,9 @@ The app will provide the details of everything that is happening, the summary an
 
 These are some made up words. Enjoy them and make your own ones!
 
-_EXPERIENCE 1:_
+_Example 1:_
 
+![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
 
 [SEP]
 
