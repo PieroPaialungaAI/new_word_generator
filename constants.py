@@ -1,0 +1,1 @@
+OPENAI_KEY = 'fake_ai_key'
