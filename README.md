@@ -39,7 +39,7 @@ These are some made up words. Enjoy them and make your own ones!
 
 ### 3.3 Example 3: 
 
-![resume_image](https://user-images.githubusercontent.com/55837093/222734852-884a0dc0-c01e-42c1-9902-1e0e5403d3e7.png)
+![resume_image](https://user-images.githubusercontent.com/55837093/222735979-dbf2b9c6-61f9-443a-b67c-43b08a8cc69c.png)
 
 ***
 
